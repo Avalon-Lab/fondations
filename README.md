@@ -5,7 +5,7 @@ Ces documents sont disponibles à titre indicatif et nécessitent une vérificat
 
 ## Liste des documents
 
-### Statuts SCOP
+### [Statuts SCOP](statuts_scop.md)
 
 Ce document est un exemple de statuts d'une Société COpérative et Participative (SCOP)
 

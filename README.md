@@ -7,7 +7,7 @@ Ces documents sont disponibles à titre indicatif et nécessitent une vérificat
 
 ### [Statuts SCOP](statuts_scop.md)
 
-Ce document est un exemple de statuts d'une Société COpérative et Participative (SCOP)
+Ce document est un exemple de statuts d'une Société COpérative et Participative (SCOP) / Société oar Actions Simplifiée (SAS) 
 
 ## Markdown -> PDF, Word
 

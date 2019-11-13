@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="16"
+   height="16"
+   viewBox="0 0 4.2333332 4.2333335"
+   version="1.1"
+   id="svg6487"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"
+   sodipodi:docname="logo_avalon-lab.svg">
+  <defs
+     id="defs6481" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="28.963094"
+     inkscape:cx="-2.1079974"
+     inkscape:cy="8.0210877"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     units="px"
+     inkscape:window-width="2560"
+     inkscape:window-height="1387"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata6484">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Calque 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,-292.76665)">
+    <g
+       id="g6467"
+       transform="matrix(0.04724559,0,0,0.04724559,-0.34591127,283.53896)">
+      <path
+         inkscape:label="erlenmeyer"
+         inkscape:connector-curvature="0"
+         d="m 42.912397,220.15478 h 9.1159 m -9.1159,-7.97691 h 9.1159 m -9.1159,-7.43625 h 9.1159 M 80.170586,270.64649 61.021247,231.4632 V 196.9007 H 42.912438 v 34.57151 l -19.039022,39.54223 c -0.411273,0.85682 -0.825276,1.71597 -1.204152,2.54711 -0.477658,1.04774 -0.912568,2.06179 -1.262305,3.00814 -0.174827,0.47313 -0.328464,0.92952 -0.455408,1.36467 -0.126739,0.43516 -0.227398,0.84924 -0.295453,1.23794 -0.06846,0.38877 -0.104735,0.75184 -0.10392,1.0856 10e-4,0.33376 0.04075,0.63814 0.119812,0.90853 0.0811,0.2706 0.20417,0.50684 0.365141,0.71386 0.160565,0.20702 0.359029,0.3843 0.588955,0.53647 0.229842,0.152 0.492003,0.27874 0.780612,0.38429 0.288527,0.10555 0.603868,0.19032 0.940442,0.25756 0.673107,0.13529 1.431387,0.20294 2.232375,0.23677 0.800947,0.0326 1.644603,0.0326 2.488177,0.0326 h 23.899192 25.559485 m 0,0 c 2.869538,-0.0367 5.462244,-0.28934 6.020756,-2.15698 0.632355,-2.11485 -1.343443,-6.29788 -3.376497,-10.52598"
+         style="display:inline;fill:none;stroke:#003459;stroke-width:3.17499995;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path843" />
+      <path
+         inkscape:label="contour fin phare"
+         inkscape:connector-curvature="0"
+         d="m 49.758204,243.98187 a 4.8577819,4.8577819 0 0 1 4.857782,-4.85778 4.8577819,4.8577819 0 0 1 4.857782,4.85778 h -4.857782 z m -0.04661,27.40187 1.265568,-18.72145 7.259283,-0.0214 1.337262,19.70044 -9.766641,0.0214 z"
+         style="fill:none;fill-opacity:1;fill-rule:evenodd;stroke:#003459;stroke-width:0.75800002;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+         id="path1442" />
+      <path
+         inkscape:label="ile + forme pleine phare"
+         inkscape:connector-curvature="0"
+         d="m 26.924394,279.29437 4.618381,-3.02906 1.763281,-0.69162 3.715277,-3.756 1.479796,-3.38239 3.620217,1.74405 1.519536,-1.43488 5.615197,1.69912 2.131777,0.50213 7.539748,4.14866 5.13346,0.0849 8.578466,4.1004 z m 33.004462,-32.79926 4.32,-2.34306 v 4.13695 z m -10.679078,-0.0662 -4.320054,-2.34309 v 4.137 z m 1.320777,-2.41849 -0.02067,4.15686 h -1.413867 v 4.89117 h 11.005013 v -4.89117 h -1.629876 l -0.06873,-4.15686 z m -0.211873,5.37952 h 1.222664 v 2.44584 h -1.222664 z m 2.44533,0 h 1.223182 v 2.44584 h -1.223182 z m 2.445845,0 h 1.222663 v 2.44584 h -1.222663 z m 2.445329,0 h 1.222664 v 2.44584 h -1.222664 z m -9.812202,22.0099 h 13.588085 v 3.80156 H 47.882984 Z m 3.053773,-13.4491 7.354849,0.0143 0.34614,4.82419 -8.047637,-0.006 z m -0.886694,9.79289 9.062612,-0.006 0.258813,3.85781 -9.58544,10e-4 z"
+         style="fill:#003459;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+         id="path1454" />
+    </g>
+  </g>
+</svg>

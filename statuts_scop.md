@@ -2,14 +2,13 @@
 SOCIETE COOPERATIVE ET PARTICIPATIVE  
 SOCIETE PAR ACTIONS SIMPLIFIEE, A CAPITAL VARIABLE  
 SIEGE : `_, rue ______ ______ - ______ ______`  
-RCS ___ EN COURS  
+RCS `______` *EN COURS*  
 
 ## STATUTS
 
 Scop SAS *Nom de la société*
 
 ### LES SOUSSIGNÉS
-- M. `_______ _______`, né le `_______` à `_______` (`__`), domicilié `_, rue ______ ______ - ______ ______`,
 - M. `_______ _______`, né le `_______` à `_______` (`__`), domicilié `_, rue ______ ______ - ______ ______`,
 - M. `_______ _______`, né le `_______` à `_______` (`__`), domicilié `_, rue ______ ______ - ______ ______`,
 - M. `_______ _______`, né le `_______` à `_______` (`__`), domicilié `_, rue ______ ______ - ______ ______`,
@@ -88,11 +87,6 @@ Il peut être transféré en tout autre lieu par décision des associés statuan
 #### Article 6 - Capital social initial et apports
 Le capital social initial est fixé à `______ ______ ______ ______ ______ ______ (__ ___) €` divisé en `______ ______ ______ (____)` parts de `______ ______ (___)` € chacune entièrement souscrites et libérées, réparties entre les associés en proportion de leurs apports.  
 Les soussignés, dont les noms suivent, apportent à la Société :
-- M. `_______ _______`,   
-né le `_______` à `_______` (`__`), de nationalité Française,   
-célibataire,   
-domicilié `_, rue ______ ______ - ______ ______`,  
-Représenté par `______ ______ ______` (`___`) parts sociales ;
 - M. `_______ _______`,   
 né le `_______` à `_______` (`__`), de nationalité Française,   
 célibataire,   
@@ -647,7 +641,7 @@ Si cette condition est remplie, elle emportera de plein droit reprise par la Soc
   
 Dès à présent, les soussignés décident la réalisation immédiate, pour le compte de la société, des actes et engagements jugés urgents dans l’intérêt social.  
   
-Tous pouvoirs sont donnés à Messieurs `_______ _______`, `_______ _______`, `_______ _______` et `_______ _______`, futurs associés salariés de la société pour exécuter la présente décision et réaliser les opérations prévues, telles que :
+Tous pouvoirs sont donnés à Messieurs `_______ _______`, `_______ _______` et `_______ _______`, futurs associés salariés de la société pour exécuter la présente décision et réaliser les opérations prévues, telles que :
 - Négocier et obtenir toutes avances en compte courant nécessaires pour le démarrage de la société,
 - Négocier et obtenir tous financements nécessaires à ce sujet, avec notamment la réalisation des emprunts nécessaires et constitution des garanties requises.
 - Souscrire toutes assurances et faire en général le nécessaire pour un bon démarrage de la société,
@@ -681,7 +675,6 @@ Signatures des associés :
   
 | Nom               | Signature précédée de la mention « lu et approuvé » |
 | ----------------- | --------------------------------------------------- |
-| `_______ _______` |                                                     |
 | `_______ _______` |                                                     |
 | `_______ _______` |                                                     |
 | `_______ _______` |                                                     |
@@ -722,4 +715,4 @@ Par ailleurs :
 - M. `_______ _______`, demeurant `_, rue ______ ______ - ______ ______`, agissant en qualité de co-fondateur de la Société SAS SCOP *Nom de la société*, déclare avoir pris personnellement, en vue de la création de ladite société, les engagements suivants :
   - Recherche de la disponibilité du nom de la société auprès de l'INPI pour un prix de `__` € TTC;
     
-En application de l'article L210-6 du Code de commerce, le présent état reprenant l'énumération intégrale des engagements pris par MM. `_______ _______` et `_______ _______` pour le compte de la société en formation, a été communiqué aux associés préalablement à la signature des statuts.
+En application de l'article L210-6 du Code de commerce, le présent état reprenant l'énumération intégrale des engagements pris par M. `_______ _______` pour le compte de la société en formation, a été communiqué aux associés préalablement à la signature des statuts.

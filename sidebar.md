@@ -1,7 +1,7 @@
 **Documents**
 
-- Statuts
-    - [Statuts SAS SCOP](documents/statuts/statuts_scop.md)
+- Statuts SAS SCOP
+    - [Statuts](documents/statuts/statuts_scop.md)
     - [Notice](documents/statuts/notice.md)
 
 ---
